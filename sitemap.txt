@@ -1,3 +1,3 @@
-http://example.com/repository/index.html
-http://example.com/2022/09/24/hello-world/
-http://example.com/
+https://wangce1901.github.io/nonenull.github.io/repository/index.html
+https://wangce1901.github.io/nonenull.github.io/2022/09/24/hello-world/
+https://wangce1901.github.io/nonenull.github.io
