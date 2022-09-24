@@ -1,2 +1,3 @@
+http://example.com/repository/index.html
 http://example.com/2022/09/24/hello-world/
 http://example.com/
