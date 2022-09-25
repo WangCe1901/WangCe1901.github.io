@@ -19,10 +19,19 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://wangce1901.github.io/2022/09/25/VS%20Code%E4%B8%ADCCPP%E7%9A%84%E5%AE%8C%E5%85%A8%E9%85%8D%E7%BD%AE(%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E3%80%81%E8%A7%A3%E5%86%B3%E7%BB%88%E7%AB%AF%E8%87%AA%E5%8A%A8%E9%80%80%E5%87%BA%E3%80%81%E8%A7%A3%E5%86%B3%E6%97%A0%E6%B3%95%E8%B0%83%E8%AF%95)/</loc>
+    
+    <lastmod>2020-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://wangce1901.github.io/</loc>
-    <lastmod>2022-09-24</lastmod>
+    <lastmod>2022-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
