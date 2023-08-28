@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as s}from"./index-d2f8332f.js";const _={},c={class:"about"},a=s("h1",null,"The only way to do great work is to love what you do.",-1),n=[a];function r(d,i){return o(),t("div",c,n)}const u=e(_,[["render",r]]);export{u as default};
